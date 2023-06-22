@@ -1,5 +1,8 @@
 # Ancient Treasure Puzzle
 
+https://espr.camp/
+https://pair.camp/
+
 You stumble upon an ancient treasure locked behind a convoluted puzzle mechanism: a rotating box with 4 identically looking buttons on it.
 
 Each button has two states - on and off - but it's impossible to distinguish these states from the outside. You can simultaneously press any number of buttons, but immediately after that the box rotates really fast and you lose track of which button ends up where.
